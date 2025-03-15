@@ -1,7 +1,9 @@
-package local;
+package com.pawanspace.simplewal;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import com.pawanspace.simplewal.WALEntry;
 
 import java.time.Instant;
 import java.util.Arrays;

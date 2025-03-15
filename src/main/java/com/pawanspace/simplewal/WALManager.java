@@ -1,4 +1,4 @@
-package local;
+package com.pawanspace.simplewal;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

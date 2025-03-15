@@ -1,4 +1,4 @@
-package local;
+package com.pawanspace.simplewal;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

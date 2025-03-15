@@ -1,4 +1,4 @@
-package local;
+package com.pawanspace.simplewal;
 
 import java.io.IOException;
 import java.nio.BufferUnderflowException;

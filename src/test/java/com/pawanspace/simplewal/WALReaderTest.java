@@ -1,4 +1,4 @@
-package local;
+package com.pawanspace.simplewal;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
